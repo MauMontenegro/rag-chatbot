@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+index/
+data/
+api_env
+env
+*.env
